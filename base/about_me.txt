@@ -1,0 +1,3 @@
+Hello! My name is Brian Cheong. I am a sophomore majoring in computer engineering. I have completed the ECE 26300 course and so I have some prior experience in C programming language. I'm in this class primarily because it is a required course for my major, and secondly I have a deep interest in computer science classes. Therefore, I am excited to attend this class and to start working on some projects as a programmer.
+
+Something interesting about myself is that I am a big fan of music and programming. I hope to be a computer engineer by the time I graduate and acquire all the skills I need for me to succeed in this career  
