@@ -1,3 +1,11 @@
-Hello! My name is Brian Cheong. I am a sophomore majoring in computer engineering. I have completed the ECE 26300 course and so I have some prior experience in C programming language. I'm in this class primarily because it is a required course for my major, and secondly I have a deep interest in computer science classes. Therefore, I am excited to attend this class and to start working on some projects as a programmer.
+Hello! My name is Brian Cheong. I am a sophomore majoring in computer engineering. 
+I have completed ECE 26300 during the Spring 2021 semester, and so I have some prior experiences in C programming language. 
+I enrolled in this class primarily because it is a required course for my major, and secondly I have a deep interest in computer science courses. 
+I am super excited to attend this class and I hope to start learning to work on projects as a real programmer.
 
-Something interesting about myself is that I am a big fan of music and programming. I hope to be a computer engineer by the time I graduate and acquire all the skills I need for me to succeed in this career  
+Something interesting about myself is that I am a big fan of music and programming. 
+I hope to get a job as a computer engineer by the time I graduate and acquire all the skills I need to succeed in this career.
+My dream is to participate in a study abroad program and broaden my horizons by exploring a different culture.
+
+Another fun fact about me, I am an international student from Malaysia. 
+Studying in the US has always been a dream of mine since I was a kid, and I'm glad that I got the chance to attend college at IUPUI. 
