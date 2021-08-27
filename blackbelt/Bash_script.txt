@@ -1,0 +1,7 @@
+Bash Script Summary
+
+I looked up some information about BASH script online, and I managed to build one on my own with some important commands in it. 
+
+Based on my understanding, BASH script is a text file that contains a list of commands frequently used by programmers. By running this Bash script, the terminal will execute every command in sequence. Therefore, it makes the job more convenient, effective, and efficient for programmers who are working on big projects. They only need to write a single line of command to run the Bash script, and a list of other commands contained in it will be executed automatically by the terminal.
+
+My Bash script has the few important commands that I will be using a lot while working on a project. The commands git add ., git commit -m "Updated files",and  git push -u origin master are crucial for getting the files uploaded to GitHub and making sure that they are saved in a secure location. Also, I have added some commands like git log --oneline and git status just to make sure that every command is successfully executed by the terminal.
