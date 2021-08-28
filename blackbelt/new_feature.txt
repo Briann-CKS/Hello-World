@@ -4,7 +4,7 @@ After I am done with the new feature, I will try to run it and see if it can be 
 
 Before merging the new branch with my master branch, I have also observed the differences between the two branches by using the git diff master NewBranch command. Some files that I have created in my new branch did not appear in my master branch, so I have to merge it with the master branch in order for all the new files to be added into it.
 
-Finally, I added, committed, and pushed all the files to GitHub with my Macbook. Then, I also cloned the repo from GitHub to my local machine by using git clone. Eventually, I was able to access all the files and directories from my local machine. 
+Finally, I added, committed, and pushed all the files to GitHub with my Macbook. Then, I tried cloning the repo from GitHub to my local machine by using git clone. Eventually, I was able to access all the files and directories from my local machine. 
 
 Thanks and have fun!
 
